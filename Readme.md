@@ -1,6 +1,8 @@
 # U04-1 | Refactoring mit Methoden
 
-![Target](docs/target.png)
+| Das Target aus der letzten Übung |
+|:----:|
+| ![Target](./docs/target.png) |
 
 Im Starterprojekt für dieses Übungsblatt finden Sie eine Musterlösung
 für das Target-Programm aus der letzten Übung. Bauen Sie den Code so um,
