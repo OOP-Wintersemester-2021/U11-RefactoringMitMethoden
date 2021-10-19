@@ -1,4 +1,4 @@
-# U04-1 | Refactoring mit Methoden
+# U11 | Refactoring mit Methoden
 
 | Das Target aus der letzten Übung |
 |:----:|
