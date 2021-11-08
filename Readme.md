@@ -4,7 +4,7 @@
 |:----:|
 | ![Target](./docs/target.png) |
 
-Im Starterprojekt für dieses Übungsblatt finden Sie eine Musterlösung
+Im Starterprojekt für dieses Übungsblatt finden Sie einen Lösungsvorschlag
 für das Target-Programm aus der letzten Übung. Bauen Sie den Code so um,
 dass er leichter verständlich, modularer und besser wartbarer wird:
 
@@ -19,3 +19,4 @@ Passen Sie die `for`-Schleife innerhalb der `drawDartTarget`-Methode an,
 indem Sie den vorhandenen Code durch die neu implementierten Methoden
 ersetzen. Testen Sie, ob Ihr neu strukturiertes Programm immer noch
 korrekt läuft.
+
